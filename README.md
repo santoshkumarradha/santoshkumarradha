@@ -1,5 +1,7 @@
+<figure>
 <img src="board1.jpeg" alt="But for all symmetries, S6 is unique"> 
-
+<figcaption>Discrete symmetries in the fourier space of S6 lattice. '17</figcaption>
+</figure>
 ### Hi there 👋
 
 My interest ranges from [topological physics](https://en.wikipedia.org/wiki/Topological_order) 🪢 to [carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)🎻. I currently work at the very exciting intersection of quantum computing and machine learning. 
